@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Dtos\" />
+      <Folder Include="Interfaces\Repositories\" />
+      <Folder Include="Interfaces\Services\" />
+      <Folder Include="Mappings\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\GigaTreasure.Domain\GigaTreasure.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

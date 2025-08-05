@@ -1,0 +1,11 @@
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Domain\bin\Debug\net9.0\GigaTreasure.Domain.deps.json
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Domain\bin\Debug\net9.0\GigaTreasure.Domain.dll
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Domain\bin\Debug\net9.0\GigaTreasure.Domain.pdb
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Domain\obj\Debug\net9.0\GigaTreasure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Domain\obj\Debug\net9.0\GigaTreasure.Domain.AssemblyInfoInputs.cache
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Domain\obj\Debug\net9.0\GigaTreasure.Domain.AssemblyInfo.cs
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Domain\obj\Debug\net9.0\GigaTreasure.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Domain\obj\Debug\net9.0\GigaTreasure.Domain.dll
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Domain\obj\Debug\net9.0\refint\GigaTreasure.Domain.dll
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Domain\obj\Debug\net9.0\GigaTreasure.Domain.pdb
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Domain\obj\Debug\net9.0\ref\GigaTreasure.Domain.dll

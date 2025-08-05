@@ -1,0 +1,17 @@
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\bin\Debug\net9.0\GigaTreasure.Infra.Data.deps.json
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\bin\Debug\net9.0\GigaTreasure.Infra.Data.dll
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\bin\Debug\net9.0\GigaTreasure.Infra.Data.pdb
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\bin\Debug\net9.0\GigaTreasure.App.dll
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\bin\Debug\net9.0\GigaTreasure.Domain.dll
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\bin\Debug\net9.0\GigaTreasure.App.pdb
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\bin\Debug\net9.0\GigaTreasure.Domain.pdb
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\obj\Debug\net9.0\GigaTreasure.Infra.Data.csproj.AssemblyReference.cache
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\obj\Debug\net9.0\GigaTreasure.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\obj\Debug\net9.0\GigaTreasure.Infra.Data.AssemblyInfoInputs.cache
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\obj\Debug\net9.0\GigaTreasure.Infra.Data.AssemblyInfo.cs
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\obj\Debug\net9.0\GigaTreasure.Infra.Data.csproj.CoreCompileInputs.cache
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\obj\Debug\net9.0\GigaTrea.ADF9A0C4.Up2Date
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\obj\Debug\net9.0\GigaTreasure.Infra.Data.dll
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\obj\Debug\net9.0\refint\GigaTreasure.Infra.Data.dll
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\obj\Debug\net9.0\GigaTreasure.Infra.Data.pdb
+E:\Projects\Projects Portfolio\GigaTreasure\src\GigaTreasure.Infra.Data\obj\Debug\net9.0\ref\GigaTreasure.Infra.Data.dll

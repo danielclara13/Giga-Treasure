@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GigaTreasure.Infra.Ioc/1.0.0": {
+        "dependencies": {
+          "GigaTreasure.App": "1.0.0",
+          "GigaTreasure.Domain": "1.0.0",
+          "GigaTreasure.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "GigaTreasure.Infra.Ioc.dll": {}
+        }
+      },
+      "GigaTreasure.App/1.0.0": {
+        "dependencies": {
+          "GigaTreasure.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GigaTreasure.App.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "GigaTreasure.Domain/1.0.0": {
+        "runtime": {
+          "GigaTreasure.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "GigaTreasure.Infra.Data/1.0.0": {
+        "dependencies": {
+          "GigaTreasure.App": "1.0.0",
+          "GigaTreasure.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GigaTreasure.Infra.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GigaTreasure.Infra.Ioc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GigaTreasure.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GigaTreasure.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GigaTreasure.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

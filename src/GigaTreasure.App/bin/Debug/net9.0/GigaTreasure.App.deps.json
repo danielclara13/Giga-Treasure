@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GigaTreasure.App/1.0.0": {
+        "dependencies": {
+          "GigaTreasure.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GigaTreasure.App.dll": {}
+        }
+      },
+      "GigaTreasure.Domain/1.0.0": {
+        "runtime": {
+          "GigaTreasure.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GigaTreasure.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GigaTreasure.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

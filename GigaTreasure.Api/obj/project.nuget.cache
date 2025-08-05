@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y7CxUBr8uV4=",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Projects Portfolio\\GigaTreasure\\GigaTreasure.Api\\GigaTreasure.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clara\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\clara\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
