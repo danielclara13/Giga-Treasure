@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GigaTreasure.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e545cb63f5d3dd73405e33d168cdc86146cafc")]
 [assembly: System.Reflection.AssemblyProductAttribute("GigaTreasure.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GigaTreasure.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
