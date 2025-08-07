@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations.Schema;
 using GigaTreasure.Domain.Entities.Interfaces.ProductImage;
 
 namespace GigaTreasure.Domain.Entities;
@@ -7,6 +8,7 @@ namespace GigaTreasure.Domain.Entities;
 /// This class implements IProductImage and IProductImageBase interfaces to ensure
 /// compliance with the defined structure of a product image in the GigaTreasure domain.
 /// </summary>
+[Table("ProductImages")]
 public class ProductImage : IProductImage, IProductImageBase
 {
     /// <summary>
