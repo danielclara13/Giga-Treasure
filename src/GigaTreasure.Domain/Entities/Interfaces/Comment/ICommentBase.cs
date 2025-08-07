@@ -10,4 +10,9 @@ public interface ICommentBase
     /// Gets or sets the textual content of the comment.
     /// </summary>
     public string? Text { get; set; }
+
+    /// <summary>
+    /// Gets or sets the date associated with the comment.
+    /// </summary>
+    public DateTime Date { get; set; }
 }

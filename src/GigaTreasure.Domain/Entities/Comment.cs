@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations.Schema;
 using GigaTreasure.Domain.Entities.Interfaces.Comment;
 
 namespace GigaTreasure.Domain.Entities;
@@ -7,6 +8,7 @@ namespace GigaTreasure.Domain.Entities;
 /// Implements both <see cref="IComment"/> and <see cref="ICommentBase"/> to provide a complete
 /// structure for comment-related functionalities in the application.
 /// </summary>
+[Table("Comments")]
 public class Comment : IComment, ICommentBase
 {
     /// <inheritdoc cref="IComment.CommentId" />
@@ -20,4 +22,7 @@ public class Comment : IComment, ICommentBase
 
     /// <inheritdoc cref="ICommentBase.Text" />
     public string? Text { get; set; }
+
+    /// <inheritdoc cref="ICommentBase.Date" />
+    public DateTime Date { get; set; }
 }
