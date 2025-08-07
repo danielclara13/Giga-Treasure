@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GigaTreasure.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e545cb63f5d3dd73405e33d168cdc86146cafc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85b1cb6a74ef32dcf85dafe4504f9adb3976710d")]
 [assembly: System.Reflection.AssemblyProductAttribute("GigaTreasure.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GigaTreasure.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
