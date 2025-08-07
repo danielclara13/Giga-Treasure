@@ -11,7 +11,7 @@ namespace GigaTreasure.Domain.Entities;
 ///     This class implements both IAddress and IAddressBase interfaces, which define its structure
 ///     and the properties it must include. It is mapped to the "Address" table in the database.
 /// </remarks>
-[Table("Address")]
+[Table("Addresses")]
 public class Address : IAddress, IAddressBase
 {
     /// <inheritdoc cref="IAddress.AddressId" />
